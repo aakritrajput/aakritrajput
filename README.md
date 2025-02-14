@@ -10,6 +10,7 @@ Hey! I'm Aakrit, an aspiring full-stack developer who loves building **scalable 
 - 🌱 Currently learning **C Programming** while working on my E-commerce project **ShopEase**
 - 💻 Built projects like **ShopEase (E-commerce Platform) & BlogApp**
 - ⚡ Exploring **backend optimizations & production deployment strategies**
+- 🚀 Diving deeper into backend development by learning **Flask (Python)**
 - 🎯 Goal: Land an **internship** based on my full-stack skills
 
 ---
@@ -24,15 +25,19 @@ Hey! I'm Aakrit, an aspiring full-stack developer who loves building **scalable 
 #### **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
 
-#### **Databases & ORMs**  
+#### **Databases & ORMs/ODMs**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)  
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongodb&logoColor=white)  
 
 #### **Cloud & Deployment**  
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)  
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)  
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat&logo=appwrite&logoColor=white)  
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)  
 
 ---
 
@@ -41,8 +46,14 @@ Hey! I'm Aakrit, an aspiring full-stack developer who loves building **scalable 
 #### 🔥 [ShopEase - E-commerce Platform](https://github.com/aakritrajput/ShopEase)
 A feature-rich E-commerce platform with **product listings, authentication, payment integration, and order management**.
 
+🔗 **[ShopEase Backend](https://github.com/aakritrajput/ShopEaseBackend)**
+
 #### 📝 [BlogApp - Full-Stack Blogging Platform](https://github.com/aakritrajput/BlogApp)
 A blogging platform with **authentication, pagination, and full CRUD functionality**.
+
+🔗 **[BlogApp Frontend](https://github.com/aakritrajput/BlogAppFrontend)**
+
+🔗 **[BlogApp Backend](https://github.com/aakritrajput/BlogAppBackend)**
 
 ---
 
@@ -60,4 +71,3 @@ A blogging platform with **authentication, pagination, and full CRUD functionali
 
 ### ⚡ Fun Fact
 I learned everything through **free resources like YouTube** and built all my projects from scratch without formal training! 🎯
-
