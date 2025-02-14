@@ -4,21 +4,25 @@
 
 ---
 
-### 🚀 About Me
-Hey! I'm Aakrit, an aspiring full-stack developer who loves building **scalable and efficient web applications**. I have experience working with **MERN stack, MySQL, MongoDB, Appwrite, and more**. I believe in **learning by doing**, and all my knowledge comes from hands-on projects and self-learning.
+### 🚀 About Me  
+Hey! I'm Aakrit, an aspiring full-stack developer who loves building **scalable and efficient web applications**. I have experience working with **MERN stack, MySQL, MongoDB, Appwrite, and more**. I believe in **learning by doing**, and all my knowledge comes from hands-on projects and self-learning.  
 
-- 🌱 Currently learning **C Programming** while working on my E-commerce project **ShopEase**
-- 💻 Built projects like **ShopEase (E-commerce Platform) & BlogApp**
-- ⚡ Exploring **backend optimizations & production deployment strategies**
-- 🚀 Diving deeper into backend development by learning **Flask (Python)**
-- 🎯 Goal: Land an **internship** based on my full-stack skills
+- 🌱 Currently Diving deeper into backend development by learning **Flask (Python)**  
+- 💻 Built projects like **ShopEase (E-commerce Platform) & BlogApp**  
+- ⚡ Exploring **backend optimizations & production deployment strategies**  
+- 🎯 Goal: Land an **internship** based on my full-stack skills  
 
 ---
 
 ### 🛠️ Tech Stack  
 
-#### **Frontend**  
+#### **Languages Known**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+
+#### **Frontend**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
 
@@ -29,7 +33,6 @@ Hey! I'm Aakrit, an aspiring full-stack developer who loves building **scalable 
 
 #### **Databases & ORMs/ODMs**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)  
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongodb&logoColor=white)  
 
@@ -39,35 +42,39 @@ Hey! I'm Aakrit, an aspiring full-stack developer who loves building **scalable 
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat&logo=appwrite&logoColor=white)  
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)  
 
----
-
-### 📌 Featured Projects
-
-#### 🔥 [ShopEase - E-commerce Platform](https://github.com/aakritrajput/ShopEase)
-A feature-rich E-commerce platform with **product listings, authentication, payment integration, and order management**.
-
-🔗 **[ShopEase Backend](https://github.com/aakritrajput/ShopEaseBackend)**
-
-#### 📝 [BlogApp - Full-Stack Blogging Platform](https://github.com/aakritrajput/BlogApp)
-A blogging platform with **authentication, pagination, and full CRUD functionality**.
-
-🔗 **[BlogApp Frontend](https://github.com/aakritrajput/BlogAppFrontend)**
-
-🔗 **[BlogApp Backend](https://github.com/aakritrajput/BlogAppBackend)**
+#### **API Testing Tool**  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
 
 ---
 
-### 📊 GitHub Stats
-![Aakrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aakritrajput&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aakritrajput&layout=compact&theme=radical)
+### 📌 Featured Projects  
+
+#### 🔥 [ShopEase - E-commerce Platform](https://github.com/aakritrajput/ShopEase)  
+A feature-rich E-commerce platform with **product listings, authentication, payment integration, and order management**.  
+
+🔗 **[ShopEase Backend](https://github.com/aakritrajput/ShopEaseBackend)**  
+
+#### 📝 [BlogApp - Full-Stack Blogging Platform](https://github.com/aakritrajput/BlogApp)  
+A blogging platform with **authentication, pagination, and full CRUD functionality**.  
+
+🔗 **[BlogApp Frontend](https://github.com/aakritrajput/BlogAppFrontend)**  
+
+🔗 **[BlogApp Backend](https://github.com/aakritrajput/BlogAppBackend)**  
 
 ---
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aakrit%20Rajput-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aakrit-rajput)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-orange?style=flat&logo=vercel)](https://aakrit-portfolio.vercel.app)
+### 📊 GitHub Stats  
+![Aakrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aakritrajput&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aakritrajput&layout=compact&theme=radical)  
 
 ---
 
-### ⚡ Fun Fact
-I learned everything through **free resources like YouTube** and built all my projects from scratch without formal training! 🎯
+### 👯️ Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aakrit%20Rajput-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aakrit-rajput)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-orange?style=flat&logo=vercel)](https://aakrit-portfolio.vercel.app)  
+
+---
+
+### ⚡ Fun Fact  
+I learned everything through **free resources like YouTube** and built all my projects from scratch without formal training! 🎯  
+
