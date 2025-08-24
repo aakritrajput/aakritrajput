@@ -1,16 +1,11 @@
-# Hi there, I'm Aakrit Rajput! 👋
+# Hi there, I'm Aakrit Rajput! 
 
-**Self-taught Full-Stack Developer | Passionate about building scalable web apps**
+**Self-taught Full-Stack Developer | AI/ML Enthusiast **
 
 ---
 
-### 🚀 About Me  
+### About Me  
 Hey! I'm Aakrit, an aspiring full-stack developer who loves building **scalable and efficient web applications**. I have experience working with **MERN stack, MySQL, MongoDB, Appwrite, and more**. I believe in **learning by doing**, and all my knowledge comes from hands-on projects and self-learning.  
-
-- 🌱 Currently Diving deeper into backend development by learning **Flask (Python)**  
-- 💻 Built projects like **ShopEase (E-commerce Platform) & BlogApp**  
-- ⚡ Exploring **backend optimizations & production deployment strategies**  
-- 🎯 Goal: Land an **internship** based on my full-stack skills  
 
 ---
 
