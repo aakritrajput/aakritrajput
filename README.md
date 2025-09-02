@@ -1,6 +1,6 @@
 # Hi there, I'm Aakrit Rajput! 
 
-**Self-taught Full-Stack Developer | AI/ML Enthusiast **
+**Self-taught Full-Stack Developer | AI/ML Enthusiast**
 
 ---
 
