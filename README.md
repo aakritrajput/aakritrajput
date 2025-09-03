@@ -69,6 +69,3 @@ A blogging platform with **authentication, pagination, and full CRUD functionali
 
 ---
 
-### ⚡ Fun Fact  
-I learned everything through **free resources like YouTube** and built all my projects from scratch without formal training! 🎯  
-
