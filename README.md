@@ -1,71 +1,18 @@
-# Hi there, I'm Aakrit Rajput! 
+## Backend | Full-Stack | AI/ML
 
-**Self-taught Full-Stack Developer | AI/ML Enthusiast**
+I’m a student from a Maths background who’s deeply curious about how complex systems actually work.  
+I love exploring new technologies, understanding their core logic, and then implementing them in my own way.  
 
----
+Currently, I’m diving into **AI/ML**, absolutely amazed by how intelligence can be created through data and algorithms.  
+I’ve already built multiple **full-stack projects** (personal and professional), especially focusing on backend and scalable architectures.
 
-### About Me  
-Hey! I'm Aakrit, an aspiring full-stack developer who loves building **scalable and efficient web applications**. I have experience working with **MERN stack, MySQL, MongoDB, Appwrite, and more**. I believe in **learning by doing**, and all my knowledge comes from hands-on projects and self-learning.  
+Still in the learning phase, but I’m not in a rush — because for me, mastering something means understanding it inside out.  
+Every day, I try to push myself a bit further
 
----
+* ⌛ Soon, I’ll be releasing a project I’ve been working on for a long time — something I’ve tried to make as production-ready as possible using the best technologies I could.
 
-### 🛠️ Tech Stack  
 
-#### **Languages Known**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 
-#### **Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-
-#### **Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
-
-#### **Databases & ORMs/ODMs**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)  
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongodb&logoColor=white)  
-
-#### **Cloud & Deployment**  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)  
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)  
-![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat&logo=appwrite&logoColor=white)  
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)  
-
-#### **API Testing Tool**  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
+> “Curiosity isn’t just about asking questions — it’s about finding answers by building them.”
 
 ---
-
-### 📌 Featured Projects  
-
-#### 🔥 [ShopEase - E-commerce Platform](https://github.com/aakritrajput/ShopEase)  
-A feature-rich E-commerce platform with **product listings, authentication, payment integration, and order management**.  
-
-🔗 **[ShopEase Backend](https://github.com/aakritrajput/ShopEaseBackend)**  
-
-#### 📝 [BlogApp - Full-Stack Blogging Platform](https://github.com/aakritrajput/BlogApp)  
-A blogging platform with **authentication, pagination, and full CRUD functionality**.  
-
-🔗 **[BlogApp Frontend](https://github.com/aakritrajput/BlogAppFrontend)**  
-
-🔗 **[BlogApp Backend](https://github.com/aakritrajput/BlogAppBackend)**  
-
----
-
-### 📊 GitHub Stats  
-![Aakrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aakritrajput&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aakritrajput&layout=compact&theme=radical)  
-
----
-
-### 👯️ Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aakrit%20Rajput-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aakrit-rajput)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-orange?style=flat&logo=vercel)](https://aakrit-portfolio.vercel.app)  
-
----
-
