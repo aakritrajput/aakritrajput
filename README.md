@@ -1,6 +1,6 @@
 ## Backend | Full-Stack | AI/ML
 
-I’m a student from a Maths background who’s deeply curious about how complex systems actually work.  
+I’m a student from Maths background who’s deeply curious about how complex systems actually work.  
 I love exploring new technologies, understanding their core logic, and then implementing them in my own way.  
 
 Currently, I’m diving into **AI/ML**, absolutely amazed by how intelligence can be created through data and algorithms.  
