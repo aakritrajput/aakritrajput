@@ -9,9 +9,6 @@ I’ve already built multiple **full-stack projects** (personal and professional
 Still in the learning phase, but I’m not in a rush — because for me, mastering something means understanding it inside out.  
 Every day, I try to push myself a bit further
 
-* ⌛ Soon, I’ll be releasing a project I’ve been working on for a long time — something I’ve tried to make as production-ready as possible using the best technologies I could.
-
-
 
 > “Curiosity isn’t just about asking questions — it’s about finding answers by building them.”
 
