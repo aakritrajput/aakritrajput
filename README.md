@@ -6,6 +6,4 @@ I love exploring new technologies, understanding their core logic, and then impl
 Still in the learning phase, but I’m not in a rush — because for me, mastering something means understanding it inside out.  
 Every day, I try to push myself a bit further
 
-> “Curiosity isn’t just about asking questions — it’s about finding answers by building them.”
-
 ---
